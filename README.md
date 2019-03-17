@@ -16,7 +16,7 @@ Really gay games tile game concept. This is a mobile game that was built using U
 
 
 #### Website
-[Really Gay Games](https://reallygay.games)
+[Really Gay Games](www.reallygay.games)
 
 
 #### Disclaimer
