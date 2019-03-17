@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/General/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/Button.cs" Line="34" Column="18" />
+      <File FileName="Assets/Scripts/General/LevelManager.cs" Line="12" Column="19" />
+      <File FileName="Assets/Scripts/General/MusicManager.cs" Line="14" Column="33" />
+      <File FileName="Assets/Scripts/General/PlayerPrefsManager.cs" Line="69" Column="35" />
+      <File FileName="Assets/Scripts/General/OptionsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/General/SetStartVolume.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/General/Shredder.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/UI/FadeIn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/RoundEnemy.cs" Line="78" Column="6" />
+      <File FileName="Assets/Scripts/Business/CharacterPositions.cs" Line="22" Column="4" />
+      <File FileName="Assets/Scripts/Business/Spawner.cs" Line="13" Column="79" />
+      <File FileName="Assets/Scripts/UI/StartButtons.cs" Line="21" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
